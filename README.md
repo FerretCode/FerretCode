@@ -10,4 +10,4 @@ https://www.fiverr.com/acodingferret/create-a-discord-bot-with-json-user-data
 
 If you order, your code will be hosted right here, privately, on GitHub!
 
-***hey psst. i need ideas for a new node.js library so send me them on discord. amara#9019
+***hey psst. i need ideas for a new node.js library so send me them on discord. amara#9019***
