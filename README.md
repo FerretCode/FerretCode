@@ -8,6 +8,4 @@ I also sell on Fiverr! Here are my gig links:
 https://www.fiverr.com/acodingferret/create-an-application-for-you
 https://www.fiverr.com/acodingferret/create-a-discord-bot-with-json-user-data
 
-If you order, your code will be hosted right here, privately, on GitHub!
-
 ***hey psst. i need ideas for a new node.js library so send me them on discord. amara#9019***
