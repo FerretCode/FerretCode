@@ -7,7 +7,7 @@
 
 - 💻 I’m looking to collaborate on **All of my pinned projects!**
 
-- 💬 Ask me about **discord-trolling and millie**
+- 💬 Ask me about **discord-trolling and cubechain**
 
 - 📫 How to reach me **ferret#0881 on Discord**
 
