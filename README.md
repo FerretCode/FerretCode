@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm ferretcode</h1>
 <h3 align="center">A programmer, musician and student</h3>
 
-- 🔭 I’m currently working on [discord-trolling](https://github.com/ferretcode/discord-trolling)
+- 🔭 I’m currently working on [discord-trolling](https://github.com/discord-trolling)
 
-- 🌱 I’m currently learning **Kubernetes + Docker**
+- 🌱 I’m currently learning **Raspberry Pi's**
 
-- 💻 I’m looking to collaborate on **All of my pinned projects!**
+- 💻 I’m looking to collaborate on **discord-trolling** (see above)
 
-- 💬 Ask me about **discord-trolling and cubechain**
+- 💬 Ask me about **monorail**
 
-- 📫 How to reach me **ferret#0881 on Discord**
+- 📫 How to reach me: **ferret#0881 on Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
