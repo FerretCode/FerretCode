@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FerretCode Hosting](https://github.com/ferretcode/fc-hosting)
 
-- 🌱 I’m currently learning **Raspberry Pi's**
+- 🌱 I’m currently learning **Golang**
 
 - 💻 I’m looking to collaborate on **anything!**
 
