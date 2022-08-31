@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm ferretcode</h1>
 <h3 align="center">A programmer, musician and student</h3>
 
-- 🔭 I’m currently working on [FerretCode Freelancing](https://frrt.space)
+- 🔭 I’m currently working on [FerretCode Hosting](https://github.com/ferretcode/fc-hosting)
 
 - 🌱 I’m currently learning **Raspberry Pi's**
 
