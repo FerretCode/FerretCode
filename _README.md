@@ -23,4 +23,4 @@
 - Etc.
 
 <h1 align="center">FerretCode Freelancing</h1>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/StFjwnt/115575997.png" alt="115575997" border="0"></a>
+<img align="center" src="https://i.ibb.co/StFjwnt/115575997.png" alt="115575997" border="0">
