@@ -23,7 +23,7 @@
 - Etc.
 
 <h1 align="center">FerretCode Freelancing</h1>
-<div align="center"><img src="https://i.ibb.co/StFjwnt/115575997.png" alt="115575997" border="0"></div>
+<div align="center"><img src="https://i.ibb.co/StFjwnt/115575997.png" alt="115575997" border="0" /></div>
 ## FerretCode Freelancing is my freelancing business
 - OSS projects at https://github.com/ferretcode-freelancing
 - https://frrt.space
