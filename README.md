@@ -10,7 +10,7 @@
 ## Contact Information
 - **ferret#0881** on Discord
 
-## Tools I Use
+## Tech I Use
 - K8s
 - Docker
 - Golang
