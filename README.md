@@ -30,8 +30,6 @@
 - https://frrt.space
 
 <h1 align="center">Other</h1>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferretcode&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="ferretcode" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferretcode&show_icons=true&theme=gruvbox&locale=en" alt="ferretcode" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferretcode&theme=dark" alt="ferretcode" /></p>
 <a href="https://app.daily.dev/FerretCode"><img src="https://github.com/FerretCode/FerretCode/blob/main/devcard.svg" width="400" alt="FerretCode's Dev Card"/></a>
 
