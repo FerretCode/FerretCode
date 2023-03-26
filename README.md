@@ -18,7 +18,6 @@
 - Firebase
 - APIs
 - Ruby
-- JWTs
 - Python
 - Etc.
 
