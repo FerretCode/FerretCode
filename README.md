@@ -8,7 +8,7 @@
 - Microservices
 
 ## Contact Information
-- **ferret#0881** on Discord
+- **@ferretcode** on Discord
 
 ## Tech I Use
 - K8s
