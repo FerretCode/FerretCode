@@ -15,7 +15,9 @@
 - Docker
 - Golang
 - Node.JS
-- Firebase
+- PostgreSQL
+- Redis
+- SvelteKit
 - APIs
 - Ruby
 - Python
