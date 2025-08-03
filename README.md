@@ -1,28 +1,51 @@
-<h1 align="center">Hi, I'm ferretcode</h1>
-<h3 align="center">A programmer, musician and student</h3>
+# Hello, I'm Ethan (ferretcode)
 
-## Technologies I'm Interested in Right Now
-- Golang
-- Kubernetes
-- Docker
-- Microservices
+I'm a software engineer, student, and musician.
 
-## Contact Information
-- **@ferretcode** on Discord
+I currently work across several several stacks. My projects often involve:
 
-## Tech I Use
-- K8s
-- Docker
-- Golang
-- Node.JS
-- PostgreSQL
-- Redis
-- SvelteKit
-- APIs
-- Ruby
-- Python
-- Etc.
+- IoT & Hardware devices
+- Backend & fullstack applications
+- Developer infrastructure
+- Bots & internal tooling
 
-## FerretCode Freelancing is my freelancing business
+---
+
+## Technologies & Tools
+
+- Backend & Infrastructure
+  - Golang
+  - Docker & Kubernetes
+  - Python
+  - PostgreSQL
+- Frontend
+  - SvelteKit
+  - TailwindCSS
+  - Golang Templates
+- Embedded
+  - C
+  - CMake/Make
+  - MQTT
+  - KiCad
+
+---
+
+## Noteable Projects
+
+- [locomotive](https://github.com/FerretCode/locomotive) - Railway observability tool for streaming logs to other platforms
+- [scavenger](https://github.com/FerretCode/scavenger) - A self-hostable platform for creating web-scraping workflows
+- [RFID Inventory Tracker](https://github.com/FerretCode/rfid-inventory-tracker) - An embedded device for automatically tracking warehouse inventory using RFID tags over MQTT
+- [FleetOS](https://github.com/FleetOS) - An open-source telmatics device & platform for realtime fleet tracking
+- [MESS (Modular Emissions Sensing System)](https://github.com/ferretcode/MESS) - A set of modular subsystems for building climate science devices
+
+---
+
+## Professional Work
+
+- I'm currently a research software engineer for OSU's college of Earth, Ocean, and Atmospheric Sciences
+
+---
+
+## Freelance Business
 - OSS projects at https://github.com/ferretcode-freelancing
 - https://frrt.space
