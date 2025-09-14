@@ -37,6 +37,8 @@ I currently work across several several stacks. My projects often involve:
 - [RFID Inventory Tracker](https://github.com/FerretCode/rfid-inventory-tracker) - An embedded device for automatically tracking warehouse inventory using RFID tags over MQTT
 - [FleetOS](https://github.com/FleetOS) - An open-source telmatics device & platform for realtime fleet tracking
 - [MESS (Modular Emissions Sensing System)](https://github.com/ferretcode/MESS) - A set of modular subsystems for building climate science devices
+- [switchyard](https://github.com/ferretcode/switchyard) - Pluggable Railway infrastructure management toolset. Railway hackathon winner
+- [SCRT Cubesat](https://github.com/ferretcode/scrt-cubesat) - OSU SCRT climate science CubeSat
 
 ---
 
