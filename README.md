@@ -38,7 +38,7 @@ I currently work across several several stacks. My projects often involve:
 - [FleetOS](https://github.com/FleetOS) - An open-source telmatics device & platform for realtime fleet tracking
 - [MESS (Modular Emissions Sensing System)](https://github.com/ferretcode/MESS) - A set of modular subsystems for building climate science devices
 - [switchyard](https://github.com/ferretcode/switchyard) - Pluggable Railway infrastructure management toolset. Railway hackathon winner
-- [SCRT Cubesat](https://github.com/ferretcode/scrt-cubesat) - OSU SCRT climate science CubeSat
+- [Open Source Cubesat](https://github.com/ferretcode/scrt-cubesat) - Open Source Utility climate science CubeSat
 
 ---
 
