@@ -1,53 +1,58 @@
 # Hello, I'm Ethan (ferretcode)
 
-I'm a software engineer, student, and musician.
+I'm an embedded systems engineer, student at Oregon State University, and musician. I like building low-level systems, embedded hardware, and I love open-source in general.
 
-I currently work across several several stacks. My projects often involve:
+I currently work as an embedded and full-stack software engineer for OSU's college of Earth, Ocean, and Atmospheric Sciences. Both my work and personal projects often include:
 
 - IoT & Hardware devices
+- Aerospace hardware & firmware
 - Backend & fullstack applications
-- Developer infrastructure
-- Bots & internal tooling
+- Developer infrastructure & internal tooling
 
 ---
 
 ## Technologies & Tools
 
+- Embedded
+  - C
+  - KiCad
+  - CMake/Make
+  - Firmware development (Bare-metal, RTOS, embedded Linux)
+  - Protocols: Wi-Fi HaLow, LoRa, MQTT, CAN, I2C, SPI, UART
 - Backend & Infrastructure
   - Golang
   - Docker & Kubernetes
   - Python
   - PostgreSQL
-- Frontend
-  - SvelteKit
-  - TailwindCSS
-  - Golang Templates
-- Embedded
-  - C
-  - CMake/Make
-  - MQTT
-  - KiCad
+- Workspace & Workflow
+  - Arch Linux
+  - Niri
+  - Neovim
+  - Tmux
 
 ---
 
 ## Noteable Projects
 
+- [OSUSat](https://github.com/OSUSat) - OSU's climate science CubeSat
+- [Notebook IoT](https://github.com/notebook-iot) - Ecosystem of wireless-enabled sidecar boards that enable embedded devices to upload data to a cloud over I2C
 - [locomotive](https://github.com/FerretCode/locomotive) - Railway observability tool for streaming logs to other platforms
 - [scavenger](https://github.com/FerretCode/scavenger) - A self-hostable platform for creating web-scraping workflows
 - [RFID Inventory Tracker](https://github.com/FerretCode/rfid-inventory-tracker) - An embedded device for automatically tracking warehouse inventory using RFID tags over MQTT
 - [FleetOS](https://github.com/FleetOS) - An open-source telmatics device & platform for realtime fleet tracking
-- [MESS (Modular Emissions Sensing System)](https://github.com/ferretcode/MESS) - A set of modular subsystems for building climate science devices
 - [switchyard](https://github.com/ferretcode/switchyard) - Pluggable Railway infrastructure management toolset. Railway hackathon winner
-- [Open Source Cubesat](https://github.com/ferretcode/scrt-cubesat) - Open Source Utility climate science CubeSat
+- [Compute Deck](https://github.com/FerretCode/compute-deck) - Handheld linux cyberdeck built on the Raspberry Pi Zero 2w and Blackberry Keyboard
 
 ---
 
-## Professional Work
+## Professional & Academic Work
 
-- I'm currently a research software engineer for OSU's college of Earth, Ocean, and Atmospheric Sciences
+- Embedded Systems Engineer - Currently working at research laboratory doing embedded systems at Oregon State University.
+- CubeSat Engineer - Served as team lead for electrical and firmware systems for the 2026 IREC CubeSat mission and ongoing OSUSat project.
 
 ---
 
-## Freelance Business
-- OSS projects at https://github.com/ferretcode-freelancing
-- https://frrt.space
+## Presence
+
+- Portfolio: https://frrt.space
+- Technical Blog: https://techrocks.frrt.space/
