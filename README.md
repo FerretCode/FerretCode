@@ -41,7 +41,7 @@ I currently work as an embedded and full-stack software engineer for OSU's colle
 - [RFID Inventory Tracker](https://github.com/FerretCode/rfid-inventory-tracker) - An embedded device for automatically tracking warehouse inventory using RFID tags over MQTT
 - [FleetOS](https://github.com/FleetOS) - An open-source telmatics device & platform for realtime fleet tracking
 - [switchyard](https://github.com/ferretcode/switchyard) - Pluggable Railway infrastructure management toolset. Railway hackathon winner
-- [Compute Deck](https://github.com/FerretCode/compute-deck) - Handheld linux cyberdeck built on the Raspberry Pi Zero 2w and Blackberry Keyboard
+- [Compute Deck](https://github.com/FerretCode/compute-deck) - Handheld Linux cyberdeck using the Blackberry Keyboard & RK3566
 
 ---
 
